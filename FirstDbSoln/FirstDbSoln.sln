@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstDB.DAL", "FirstDB.DAL\FirstDB.DAL.csproj", "{34D4DBD5-57D6-4795-ADF5-8A8CD6D43C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstDBWinApp", "FirstDBWinApp\FirstDBWinApp.csproj", "{5508AA10-0E6E-4266-A9EC-EBC37B10AEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D4DBD5-57D6-4795-ADF5-8A8CD6D43C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D4DBD5-57D6-4795-ADF5-8A8CD6D43C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D4DBD5-57D6-4795-ADF5-8A8CD6D43C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D4DBD5-57D6-4795-ADF5-8A8CD6D43C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5508AA10-0E6E-4266-A9EC-EBC37B10AEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5508AA10-0E6E-4266-A9EC-EBC37B10AEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5508AA10-0E6E-4266-A9EC-EBC37B10AEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5508AA10-0E6E-4266-A9EC-EBC37B10AEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+C:\Users\USER\Documents\tutorial\FirstDbSoln\FirstDB.DAL\bin\Debug\FirstDB.DAL.dll.config
+C:\Users\USER\Documents\tutorial\FirstDbSoln\FirstDB.DAL\bin\Debug\FirstDB.DAL.dll
+C:\Users\USER\Documents\tutorial\FirstDbSoln\FirstDB.DAL\bin\Debug\FirstDB.DAL.pdb
+C:\Users\USER\Documents\tutorial\FirstDbSoln\FirstDB.DAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Documents\tutorial\FirstDbSoln\FirstDB.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\tutorial\FirstDbSoln\FirstDB.DAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Documents\tutorial\FirstDbSoln\FirstDB.DAL\obj\Debug\FirstDB.DAL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\tutorial\FirstDbSoln\FirstDB.DAL\obj\Debug\FirstDB.DAL.dll
+C:\Users\USER\Documents\tutorial\FirstDbSoln\FirstDB.DAL\obj\Debug\FirstDB.DAL.pdb
+C:\Users\USER\Documents\tutorial\Window App\FirstDbSoln\FirstDB.DAL\bin\Debug\FirstDB.DAL.dll.config
+C:\Users\USER\Documents\tutorial\Window App\FirstDbSoln\FirstDB.DAL\bin\Debug\FirstDB.DAL.dll
+C:\Users\USER\Documents\tutorial\Window App\FirstDbSoln\FirstDB.DAL\bin\Debug\FirstDB.DAL.pdb
+C:\Users\USER\Documents\tutorial\Window App\FirstDbSoln\FirstDB.DAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Documents\tutorial\Window App\FirstDbSoln\FirstDB.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\tutorial\Window App\FirstDbSoln\FirstDB.DAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Documents\tutorial\Window App\FirstDbSoln\FirstDB.DAL\obj\Debug\FirstDB.DAL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\tutorial\Window App\FirstDbSoln\FirstDB.DAL\obj\Debug\FirstDB.DAL.dll
+C:\Users\USER\Documents\tutorial\Window App\FirstDbSoln\FirstDB.DAL\obj\Debug\FirstDB.DAL.pdb
