@@ -32,6 +32,7 @@ namespace FirstDBWinApp
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Azeez Comment
             NewSTDObj.Matric_Num = Convert.ToInt32 (txtMatNum.Text);
             NewSTDObj.Fullname = txtFName.Text;
             NewSTDObj.Address = txtAdd.Text;
